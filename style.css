@@ -1,5 +1,19 @@
-.goat>.cow>.chicken{
-    color: blue;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fa0101;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #000000;
+    text-align: center;
+}
+p {
+    color: #fff9f9;
     font-size: 16px;
-    background-color: lightyellow;
+    line-height: 1.5;
+}
+a {
+    color: #c4acac;
+    text-decoration: none;
 }
